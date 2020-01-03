@@ -21,7 +21,7 @@ class Parent extends Component {
     let newFlag=flag
     this.setState({flag:!newFlag})
   }
-  //hello
+
 
  
   shouldComponentUpdate(nextProps, nextState) {
